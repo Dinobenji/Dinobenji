@@ -1,0 +1,3 @@
+- Hey im Benji
+- Im trying to create an incremental game called Planetary Trees
+- I’m currently learning simple code such as html or javascript
